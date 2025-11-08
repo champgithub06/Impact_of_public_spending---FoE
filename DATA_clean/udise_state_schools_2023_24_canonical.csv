@@ -1,0 +1,38 @@
+state_normalized,preprimary_schools,primary_schools,upper_primary_schools,secondary_schools,higher_secondary_schools,total_schools,state_raw_display,state_norm_key,state_canonical
+andaman and nicobar islands,,209.0,79.0,54.0,70.0,412.0,Andaman and Nicobar Islands,andaman and nicobar islands,Andaman & Nicobar Islands
+andhra pradesh,,37751.0,8274.0,11586.0,3762.0,61373.0,Andhra Pradesh,andhra pradesh,Andhra Pradesh
+arunachal pradesh,,1695.0,1283.0,331.0,181.0,3490.0,Arunachal Pradesh,arunachal pradesh,Arunachal Pradesh
+assam,,37481.0,9441.0,7073.0,2635.0,56630.0,Assam,assam,Assam
+bihar,,41660.0,40443.0,1933.0,10650.0,94686.0,Bihar,bihar,Bihar
+chandigarh,,14.0,42.0,70.0,104.0,230.0,Chandigarh,chandigarh,Chandigarh
+chhattisgarh,,32461.0,16570.0,2704.0,4880.0,56615.0,Chhattisgarh,chhattisgarh,Chhattisgarh
+dadra and nagar haveli and daman and diu,,162.0,175.0,38.0,57.0,432.0,Dadra and Nagar Haveli and Daman and Diu,dadra and nagar haveli and daman and diu,Dadra and Nagar Haveli and Daman and Diu
+delhi,,2481.0,806.0,340.0,1870.0,5497.0,Delhi,delhi,National Capital Territory of Delhi
+goa,,862.0,77.0,423.0,125.0,1487.0,Goa,goa,Goa
+gujarat,,13537.0,27052.0,4449.0,8588.0,53626.0,Gujarat,gujarat,Gujarat
+haryana,,9632.0,4985.0,2765.0,6135.0,23517.0,Haryana,haryana,Haryana
+himachal pradesh,,10836.0,2492.0,1788.0,2710.0,17826.0,Himachal Pradesh,himachal pradesh,Himachal Pradesh
+india,,736611.0,432416.0,143978.0,158886.0,1471891.0,India,india,India
+jammu and kashmir,,10625.0,9175.0,3199.0,1297.0,24296.0,Jammu and Kashmir,jammu and kashmir,Jammu & Kashmir
+jharkhand,,23337.0,16062.0,3233.0,1843.0,44475.0,Jharkhand,jharkhand,Jharkhand
+karnataka,,23436.0,30328.0,16324.0,5781.0,75869.0,Karnataka,karnataka,Karnataka
+kerala,,6416.0,4452.0,1977.0,3019.0,15864.0,Kerala,kerala,Kerala
+ladakh,,392.0,438.0,114.0,51.0,995.0,Ladakh,ladakh,Ladakh
+lakshadweep,,15.0,9.0,0.0,13.0,37.0,Lakshadweep,lakshadweep,Lakshadweep
+madhya pradesh,,60976.0,44108.0,8210.0,10118.0,123412.0,Madhya Pradesh,madhya pradesh,Madhya Pradesh
+maharashtra,,49906.0,29252.0,17826.0,11253.0,108237.0,Maharashtra,maharashtra,Maharashtra
+manipur,,2447.0,944.0,967.0,288.0,4646.0,Manipur,manipur,Manipur
+meghalaya,,9156.0,3528.0,1494.0,423.0,14601.0,Meghalaya,meghalaya,Meghalaya
+mizoram,,1465.0,1532.0,720.0,224.0,3941.0,Mizoram,mizoram,Mizoram
+nagaland,,1138.0,782.0,583.0,222.0,2725.0,Nagaland,nagaland,Nagaland
+odisha,,28635.0,20844.0,9415.0,2799.0,61693.0,Odisha,odisha,Odisha
+puducherry,,273.0,69.0,185.0,208.0,735.0,Puducherry,puducherry,Puducherry
+punjab,,13468.0,4637.0,4014.0,5285.0,27404.0,Punjab,punjab,Punjab
+rajasthan,,37757.0,34515.0,7356.0,28129.0,107757.0,Rajasthan,rajasthan,Rajasthan
+sikkim,,668.0,315.0,144.0,127.0,1254.0,Sikkim,sikkim,Sikkim
+tamil nadu,,33995.0,10044.0,5679.0,9004.0,58722.0,Tamil Nadu,tamil nadu,Tamil Nadu
+telangana,,20539.0,7482.0,11566.0,3314.0,42901.0,Telangana,telangana,Telangana
+tripura,,2472.0,1247.0,671.0,533.0,4923.0,Tripura,tripura,Tripura
+uttar pradesh,,133331.0,86798.0,12092.0,22866.0,255087.0,Uttar Pradesh,uttar pradesh,Uttar Pradesh
+uttarakhand,,12929.0,5503.0,1403.0,2716.0,22551.0,Uttarakhand,uttarakhand,Uttarakhand
+west bengal,,74454.0,8633.0,3252.0,7606.0,93945.0,West Bengal,west bengal,West Bengal
